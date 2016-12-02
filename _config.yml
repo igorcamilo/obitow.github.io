@@ -1,0 +1,5 @@
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "LICENCE.md"
+  - "README.md"
