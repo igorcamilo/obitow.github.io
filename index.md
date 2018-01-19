@@ -5,16 +5,25 @@
 
 ## Summary
 
-After seven years working with computer support, I'm looking for new challenges as a software developer. In my 3 years of freelance experience, I was able to deliver high quality native iOS apps. I'm self motivated, fast learner, adaptable and passionate about technology. On my free time, I enjoy learning new languages (both human and computer) and play games.
+Former IT Support Specialist, now Software Developer with experience in iOS (Objective-C, Swift) and Web (PHP). Self motivated, highly adaptable and passionate about technology.
 
-Find me on [GitHub](https://github.com/obitow), [Stack Overflow](https://stackoverflow.com/users/2366885) and [LinkedIn](https://linkedin.com/in/igorcamilo).
+Find me on [GitHub](https://github.com/obitow), [Stack Overflow](https://stackoverflow.com/users/2366885) and [LinkedIn](https://linkedin.com/in/igor-camilo).
 
 ## Experience
 
-#### Web Developer @ [CGCO - UFJF](https://www.ufjf.br/cgco/) *since June 2016*
+#### iOS Consultant @ [Phormar](https://phormar.com.br/) *since January 2017*
+- Integrate hybrid app to Apple ecosystem.
+- Use version control system (Git).
+- Work with Xcode 8 IDE and its tools.
+- Collaborate with product managers.
+- Publish finished versions on iTunes Connect portal, dealing with any issues on the AppStore publishing process.
+
+#### Software Developer @ [CGCO - UFJF](https://www.ufjf.br/cgco/) *since June 2016*
 - Implement, optimize and maintain new and current features.
-- Code in PHP language using the Maestro framework.
-- Use a version control system (SVN).
+- Code in PHP and Swift 4 languages.
+- Use version control systems (Subversion and Git).
+- Work with PhpStorm and Xcode 9 IDEs and their tools.
+- Use Composer and CocoaPods dependency managers.
 - Use a project management application (Redmine).
 - Collaborate with product managers and business analysts.
 
@@ -22,17 +31,17 @@ Find me on [GitHub](https://github.com/obitow), [Stack Overflow](https://stackov
 - Build the entire app from the ground up.
 - Implement, optimize and maintain new and current app features.
 - Code in Objective-C and Swift 3 languages.
-- Use a version control system (Git).
-- Work with Xcode 8 IDE and its tools.
+- Use version control system (Git).
+- Work with Xcode 9 IDE and its tools.
 - Use CocoaPods dependency manager.
 - Collaborate with product managers and UI/UX designers.
 - Publish finished versions on iTunes Connect portal, dealing with any issues on the AppStore publishing process.
 
-#### iOS Developer @ [Phormar](https://phormar.com.br/) *April 2016 to August 2016*
+#### iOS Developer @ [Phormar](https://phormar.com.br/) *April 2016 to January 2017*
 - Build the entire app from the ground up.
 - Implement, optimize and maintain new and current app features.
 - Code in Swift 2 language.
-- Use a version control system (Git).
+- Use version control system (Git).
 - Work with Xcode 7 IDE and its tools.
 - Use CocoaPods dependency manager.
 - Publish finished versions on iTunes Connect portal, dealing with any issues on the AppStore publishing process.
@@ -50,7 +59,7 @@ Find me on [GitHub](https://github.com/obitow), [Stack Overflow](https://stackov
 - Build the entire app from the ground up.
 - Implement, optimize and maintain new and current app features.
 - Code in Objective-C and Swift 2 languages.
-- Use a version control system (Git).
+- Use version control system (Git).
 - Work with Xcode 7 IDE and its tools.
 - Use CocoaPods dependency manager.
 - Collaborate with product managers and UI/UX designers.
@@ -59,7 +68,7 @@ Find me on [GitHub](https://github.com/obitow), [Stack Overflow](https://stackov
 #### iOS Developer @ [Qranio](https://www.qranio.com/) *October 2014 to December 2014*
 - Implement, optimize and maintain new and current app features.
 - Code in Objective-C language.
-- Use a version control system (Git).
+- Use version control system (Git).
 - Use a project management application (Redmine).
 - Work with Xcode 6 IDE and its tools.
 - Use CocoaPods dependency manager.
@@ -72,8 +81,8 @@ Find me on [GitHub](https://github.com/obitow), [Stack Overflow](https://stackov
 - Provide remote support.
 
 #### Web Development Intern @ [HU - UFJF](http://www.ebserh.gov.br/web/hu-ufjf/) *June 2009 to September 2009*
-- Make changes to the website written in PHP per demand.
-- Assist migrating the old website to Wordpress.
+- Make changes to website written in PHP per demand.
+- Assist migrating old website to Wordpress.
 
 #### Technical Support Intern @ [ArcelorMittal](http://longos.arcelormittal.com/) *June 2008 to December 2008*
 - Diagnose and resolve software and hardware issues, including Windows XP, MS Office and Exchange.
@@ -84,7 +93,7 @@ Find me on [GitHub](https://github.com/obitow), [Stack Overflow](https://stackov
 
 ## Education
 
-#### Computre Science @ [UFJF](https://www.ufjf.br/) *Since 2013*
+#### Computre Science @ [UFJF](https://www.ufjf.br/) *Since 2017*
 - Bachelor's Degree
 
 #### Industrial Informatics @ [IF Sudeste MG](https://www.ifsudestemg.edu.br/) *2006 to 2008*
